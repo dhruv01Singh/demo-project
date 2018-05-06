@@ -13,11 +13,6 @@ public class AccountCtrl {
         return JSON.serialize(Database.query(strQuery)); 
     }
 
-    public String fetchAccountByName(String strQuery, String accountName) {
-        strQuery += ' WHERE name = ' + accountName;
-        return JSON.serialize(Database.query(strQuery)); 
-    }
-
     public String fetchAccountByEmail(String strQuery, String emailAddress) {
         strQuery += ' WHERE email = ' + emailAddress;
         return JSON.serialize(Database.query(strQuery)); 
