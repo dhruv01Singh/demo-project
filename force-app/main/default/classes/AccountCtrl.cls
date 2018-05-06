@@ -6,6 +6,7 @@ public class AccountCtrl {
 
     // Constructor
     public String fetchAccount(String strQuery) {
+        //fetch accounts.
         return JSON.serialize(Database.query(strQuery)); 
     }
 
