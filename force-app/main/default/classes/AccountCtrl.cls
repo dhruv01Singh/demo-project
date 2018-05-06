@@ -4,6 +4,7 @@ public class AccountCtrl {
     public String accountName {get;set;}
     public String contactName {get;set;}
 
+    // Constructor
     public String fetchAccount(String strQuery) {
         return JSON.serialize(Database.query(strQuery)); 
     }
