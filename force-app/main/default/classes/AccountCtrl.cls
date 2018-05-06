@@ -1,4 +1,5 @@
-public class AccountCtrl {
+public without sharing class AccountCtrl {
+    //Properties
     public Id accId {get;set;}
     public Id conId {get;set;}
     public String accountName {get;set;}
