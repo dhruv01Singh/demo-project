@@ -15,6 +15,7 @@ public class AccountCtrl {
     }
 
     public String fetchAccountByEmail(String strQuery, String emailAddress) {
+        //fetch acccount by email address.
         strQuery += ' WHERE email = ' + emailAddress;
         return JSON.serialize(Database.query(strQuery)); 
     }
