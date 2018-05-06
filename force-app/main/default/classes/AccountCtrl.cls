@@ -10,4 +10,9 @@ public class AccountCtrl {
     public String fetchAccount(String strQuery) {
         return JSON.serialize(Database.query(strQuery)); 
     }
+
+     public String fetchAccountByStatus(String strQuery) {
+         strQuery += ' WHERE status = \'Active\'';
+        return JSON.serialize(Database.query(strQuery)); 
+    }
 }
