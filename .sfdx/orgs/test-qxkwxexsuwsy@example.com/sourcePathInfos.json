@@ -1,0 +1,140 @@
+[
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525509473688,
+            "changeTime": 1525509473688,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525509473688,
+            "changeTime": 1525509473688,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525518564582,
+            "changeTime": 1525518564582,
+            "contentHash": "963339d4296c8068bf9a90d369838ed0bf6cd7b9"
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525509473688,
+            "changeTime": 1525509473688,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525509652795,
+            "changeTime": 1525509652795,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\classes\\AccountCtrl.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\classes\\AccountCtrl.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1525512197003,
+            "changeTime": 1525512197003,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\classes\\AccountCtrl.cls",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\classes\\AccountCtrl.cls",
+            "isDirectory": false,
+            "size": 329,
+            "modifiedTime": 1525513538551,
+            "changeTime": 1525513538551,
+            "contentHash": "04f0a9ab1243a080fe47725c6e8148a9b3f75721",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525512197006,
+            "changeTime": 1525512197006,
+            "contentHash": "cfe6569c248ffa104ab97f2cf450e3fb877d4ebb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\permissionsets\\DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1525518564584,
+            "changeTime": 1525518564584,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80"
+        }
+    ],
+    [
+        "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dhruv.singh\\MutualFundExplorer\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1525518564584,
+            "changeTime": 1525518564584,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ]
+]

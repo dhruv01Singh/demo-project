@@ -1,2 +1,14 @@
-# demo-project
-Demo project to test Salesforce DX
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
